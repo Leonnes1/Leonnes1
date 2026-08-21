@@ -19,10 +19,11 @@
 ### 🧠 Sobre Mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul
-- 🔐 Trilhando o caminho da **Cybersecurity**.
-- 🌱 Aprendendo **C**, **HTML** e **CSS**.
-- 🗣️ Estudando **inglês técnico**, **Redes** e **Linux** em paralelo
-- ⚡ Objetivo: Trabalhar com Cybersecurity e futuramente ser Perito Criminal Digital
+- 🔐 Trilhando o caminho da **Cybersecurity**, sem seguir só o roteiro básico
+- 🌱 Aprendendo **C**, **HTML** e **CSS**
+- 🗣️ Estudando **inglês técnico** em paralelo
+- 🎨 Todo projeto meu carrega uma identidade: estética *dark*, roxo como cor de assinatura, e um **"L"** marcado no canto
+- ⚡ Objetivo: sair do tutorial e começar a construir sistemas — e defesas — de verdade
 
 <p align="center">▓▒░ • ░▒▓</p>
 
@@ -49,10 +50,10 @@
 
 <p align="center">
   <a href="https://github.com/Leonnes1/SEU-REPO-1">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonnes1&repo=SEU-REPO-1&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F0FF&text_color=C9D1D9" alt="projeto 1" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonnes1&repo=SEU-REPO-1&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F0FF&text_color=C9D1D9&cache_seconds=86400" alt="projeto 1" />
   </a>
   <a href="https://github.com/Leonnes1/SEU-REPO-2">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonnes1&repo=SEU-REPO-2&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F0FF&text_color=C9D1D9" alt="projeto 2" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonnes1&repo=SEU-REPO-2&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F0FF&text_color=C9D1D9&cache_seconds=86400" alt="projeto 2" />
   </a>
 </p>
 
@@ -83,8 +84,8 @@ guest@leonnes:~$ _
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Leonnes1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F0FF&text_color=C9D1D9" alt="stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonnes1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Leonnes1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F0FF&text_color=C9D1D9&cache_seconds=86400" alt="stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonnes1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&cache_seconds=86400" alt="top langs" />
 </p>
 
 <p align="center">
