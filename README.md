@@ -57,8 +57,6 @@
   </a>
 </p>
 
-<p align="center"><sub>troque <code>SEU-REPO-1</code> / <code>SEU-REPO-2</code> pelo nome exato dos seus repositórios</sub></p>
-
 <p align="center">▓▒░ • ░▒▓</p>
 
 ### 💻 Objetivos Atuais
@@ -113,8 +111,6 @@ guest@leonnes:~$ _
     <img alt="snake animation" src="https://raw.githubusercontent.com/Leonnes1/Leonnes1/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<p align="center"><sub>precisa da GitHub Action do arquivo <code>snake.yml</code> rodar uma vez — veja as instruções que te mandei no chat</sub></p>
 
 <p align="center">▓▒░ • ░▒▓</p>
 
