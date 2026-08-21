@@ -19,11 +19,9 @@
 ### 🧠 Sobre Mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul
-- 🔐 Trilhando o caminho da **Cybersecurity**, sem seguir só o roteiro básico
+- 🔐 Sonhando com o caminho da **Cybersecurity**
 - 🌱 Aprendendo **C**, **HTML** e **CSS**
-- 🗣️ Estudando **inglês técnico** em paralelo
-- 🎨 Todo projeto meu carrega uma identidade: estética *dark*, roxo como cor de assinatura, e um **"L"** marcado no canto
-- ⚡ Objetivo: sair do tutorial e começar a construir sistemas — e defesas — de verdade
+- 🗣️ Estudando **inglês técnico** e **redes/linux**.
 
 <p align="center">▓▒░ • ░▒▓</p>
 
